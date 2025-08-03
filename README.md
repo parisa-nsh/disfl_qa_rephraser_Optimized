@@ -70,7 +70,7 @@ Evaluation includes:
 - The model is generalizable and ready for real-world conversational AI deployment.
   
 ## Report
-[Final Report – ParisNouri_DisflQA_Rephraser_Report_Chata_MLE.pdf](./ParisNouri_DisflQA_Rephraser_Report_Chata_MLE.pdf)
+[Final_Report_ParisNouri_DisflQA_Rephraser_Chata_MLE.pdf](./Final_Report_ParisNouri_DisflQA_Rephraser_Chata_MLE.pdf)
 ---
 
 **Author**: Paris Nouri  
