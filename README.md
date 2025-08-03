@@ -68,8 +68,9 @@ Evaluation includes:
 - Data augmentation and training optimization significantly boost performance.
 - T5-small is a lightweight yet powerful choice for question rephrasing.
 - The model is generalizable and ready for real-world conversational AI deployment.
+  
 ## Report
-View the full methodology and results in final_report.pdf.
+[Final Report – ParisNouri_DisflQA_Rephraser_Report_Chata_MLE.pdf](./ParisNouri_DisflQA_Rephraser_Report_Chata_MLE.pdf)
 ---
 
 **Author**: Paris Nouri  
